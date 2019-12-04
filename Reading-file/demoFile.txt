@@ -1,0 +1,1 @@
+This is a demo file that will be read by the fs module in Node
